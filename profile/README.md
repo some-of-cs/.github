@@ -1,10 +1,6 @@
 <div align="center">
-<div>
-  <img 
-    src="https://instagram.fcai19-3.fna.fbcdn.net/v/t51.82787-19/790668041_18096702269102320_7077991680682878466_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zLP5YV9EiAgQ7kNvwEQRU-Z&_nc_oc=Adr3mRJ_RY6m8zh0uo16Yvss8qFwh4-j9CwCyb1ndNyWPsVWFNgR8yrhtV9lcsmbBWk&_nc_zt=24&_nc_ht=instagram.fcai19-3.fna&_nc_gid=I755Bh6U0Xwh2b5iaKEsug&_nc_ss=7b6a8&oh=00_AQLVOm9ynDQ6gNyilcGPBqx_5Qx1pwE9xUtFUDSUtfch6A&oe=6A9CE847" 
-    alt="Some(CS) logo"
-  />
-</div>
+
+# Some(CS)
 
 **Engineering robust software systems, modern developer tooling, and computer science resources.**
 
